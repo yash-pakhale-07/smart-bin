@@ -64,7 +64,5 @@ Webcam → Preprocessing → Model → Prediction → OCR → UI
 
 ------------------------------------------------------------------------
 
-## ▶️ Run
-
-pip install -r requirements.txt\
-streamlit run app.py
+## ▶️ Demo
+https://drive.google.com/file/d/1hS0pMIB2rVX4hmCxdDudaaxxsLQRZhJx/view?usp=drivesdk
