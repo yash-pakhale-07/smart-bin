@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+streamlit-webrtc>=0.47.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+tflite-runtime>=2.14.0; platform_machine != "x86_64" or platform_system != "Windows"
+tensorflow>=2.14.0; platform_system == "Windows"
+pytesseract>=0.3.10
+Pillow>=10.0.0
+av>=11.0.0
